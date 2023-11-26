@@ -1,2 +1,2 @@
 # Playground
-playground for learing python
+This is Aviad Moualem Playground for learning python
