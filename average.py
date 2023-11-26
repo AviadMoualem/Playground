@@ -1,4 +1,4 @@
-print ("Hello, this is cool average app")
+print ("Hello, this is average app")
 print ("Please enter numbers")
 
 flag = True
